@@ -10,7 +10,7 @@ var paddle1Y;
 
 var  playerscore =0;
 var audio1;
-var pcscore =0;a
+var pcscore =0;
 
 var ball = {
     x:350/2,
