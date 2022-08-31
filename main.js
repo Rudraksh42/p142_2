@@ -22,7 +22,7 @@ var ball = {
 
 function preload()
 {
-song = loadSound("ping_pong_2014.mp3");
+song = loadSound("hello.mp3");
 song.setVolume(1);
 song.rate(1);
 }
