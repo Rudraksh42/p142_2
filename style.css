@@ -1,0 +1,64 @@
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: skyblue;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    line-height: 2;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ font-weight: bold;
+ }
+
+ canvas
+ {
+     font-size: 17px;
+     border-radius: 20px;
+     border: 5px solid white;
+ }
+
+ .heading
+{
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+}
+
+.heading h3{
+    display: inline;
+    font-size: 47px;
+    color: skyblue;
+    font-weight: bold;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid darkblue;
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.modalBtns
+{
+    width: 100%;
+    font-size: medium;
+    font-family: 'Special Elite', cursive;
+    color: red;
+    font-weight: 700;
+}
